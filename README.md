@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/nevajnokak/nevajnokak/blob/output/github-contribution-grid-snake
+![snake gif](https://github.com/nevajnokak/nevajnokak/blob/output/github-contribution-grid-snake.giv)
 
 ###
