@@ -25,7 +25,7 @@
 
 ###
 
-<div align="left">
+
   <!-- <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> -->
   <!-- [(<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />)]((https://www.instagram.com/erkosho1.dev))
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
   [![Instagram](https://img.shields.io/badge/Instagram-01060D?style=for-the-badge&logo=instagram&logoColor=FF66FF)](https://www.instagram.com/erkosho1.dev/)
     [![Telegram](https://img.shields.io/badge/Telegram-01060D?style=for-the-badge&logo=Telegram&logoColor=80DEEA)](https://t.me/slayererke)
-</div>
+
 
 ###
 
