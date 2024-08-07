@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/%D0%B5%D1%80%D0%BA%D0%B5%D0%B1%D1%83%D0%BB%D0%B0%D0%BD-%D0%BC%D0%B0%D1%81%D0%B0%D0%B9%D0%BD%D0%BE%D0%B2-9241842b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://NeVajnoKak.github.io" target="_blank">
+  <a href="https://github.com/NeVajnoKak?tab=repositories" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
