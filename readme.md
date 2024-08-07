@@ -48,12 +48,12 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-    
-    ![snake gif](https://github.com/NeVajnoKak/iOS-Development/blob/output/github-contribution-grid-snake-dark.svg)
-  <br/><br/><br/>
+
+ 
 </div>
 
-
+![snake gif](https://github.com/NeVajnoKak/iOS-Development/blob/output/github-contribution-grid-snake-dark.svg)
+ <br/><br/><br/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
