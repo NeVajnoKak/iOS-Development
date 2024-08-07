@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Fundamentals**
 
-💬 Ask me about **Swift, React, .Net Core... or anything [here](https://github.com/NeVajnoKak/NeVajnoKak/issues)**
+💬 Ask me about **Swift, React, .Net Core... or anything [here](https://github.com/NeVajnoKak?tab=repositories)**
 
 ⚡ Fun fact **someone like apple**
 
