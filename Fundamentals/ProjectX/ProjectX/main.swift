@@ -1,23 +1,34 @@
-//func longestPalindrome(_ s: String) -> String {
-//        
-//    }
-
-
-var s = "babad"
-
-func combination(_ s : String, _ count: Int) -> String {
-    if s == "" {
-        print(" ",terminator: "")
-    }
-    
-    for (index,character) in s.enumerated() {
-        if index == count{
-            break
+func fizzBuzz(_ n: Int) -> [String] {
+    var arr = (1...n).map { String($0) }
+    for i in 0..<arr.count {
+        if Int(String(arr[i]))! % 3 == 0  {
+            if Int(String(arr[i]))! % 5 == 0  {
+                arr[i] = "Fizz"
+                arr[i] += "Buzz"
+            } else {
+                arr[i] = "Fizz"
+            }
         }
-        return combination(String(character), count)
-        print(character,terminator: "")
+        else if Int(String(arr[i]))! % 5 == 0  {
+            if Int(String(arr[i]))! % 3 == 0  {
+                arr[i] = "Fizz"
+                arr[i] += "Buzz"
+            } else {
+                arr[i] = "Buzz"
+            }
+        }
     }
-    return ""
-}
 
-combination(s, 3)
+    return arr
+    }
+
+var n = 15
+print(fizzBuzz(n))
+//var arr = (1...n).map { String($0) }
+//for i in 0..<arr.count {
+//    if Int(String(arr[i]))! % 3 == 0 || Int(String(arr[i]))! % 5 == 0 {
+//        arr[i] = "Fizz"
+//    }
+//}
+//
+//print(arr)
